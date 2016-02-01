@@ -7,7 +7,16 @@
 		{
 			"Name": "QuestCore",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "TextAsset",
+			"Enabled": false
 		}
 	]
 }

@@ -467,6 +467,8 @@ C:\Program Files\Epic Games\4.10\Engine\Plugins\ScriptGeneratorPlugin\Source\Scr
 C:\Program Files\Epic Games\4.10\Engine\Plugins\ScriptPlugin\Source\ScriptEditorPlugin\ScriptEditorPlugin.Build.cs
 C:\Program Files\Epic Games\4.10\Engine\Plugins\ScriptPlugin\Source\ScriptPlugin\ScriptPlugin.Build.cs
 C:\Program Files\Epic Games\4.10\Engine\Plugins\Slate\SlateRemote\Source\SlateRemote\SlateRemote.Build.cs
+C:\Users\zib\Documents\QuestCore\QuestCore\Plugins\TextAsset\Source\TextAsset\TextAsset.Build.cs
+C:\Users\zib\Documents\QuestCore\QuestCore\Plugins\TextAsset\Source\TextAssetEditor\TextAssetEditor.Build.cs
 C:\Users\zib\Documents\QuestCore\QuestCore\Source\QuestCore\QuestCore.Build.cs
 C:\Program Files\Epic Games\4.10\Engine\Source\UE4Editor.Target.cs
 C:\Program Files\Epic Games\4.10\Engine\Source\UE4Game.Target.cs
